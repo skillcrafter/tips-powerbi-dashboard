@@ -30,7 +30,7 @@
 
 ## Дашборд
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](images/dashboard.png)
 
 ## Файлы проекта
 
